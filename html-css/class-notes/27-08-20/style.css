@@ -1,0 +1,24 @@
+/* color name */
+#kutu1 {
+    color:blue;
+}
+/* rgb value */
+#kutu2 {
+    color: rgb(0, 0, 255);
+}
+/* hex value */
+#kutu3 {
+    color: #0000ff;
+}
+/* hsl value */
+#kutu4 {
+    color: hsl(240, 100%, 50%);
+}
+/* rgba value */
+#kutu5 {
+    color: rgba(0,0,255,1)
+}
+/* hsla value */
+#kutu6 {
+    color: hsla(240,100%, 50%, 0.1)
+}
