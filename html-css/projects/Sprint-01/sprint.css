@@ -1,0 +1,41 @@
+
+#head {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 50px;
+  margin-bottom: 0px;
+}
+#name{
+    margin-top: 1px;
+    margin-bottom: 0px;
+}
+#dropdown{margin-top: 1px;
+margin-bottom: 1px;}
+
+input[type="radio"]{
+  margin: 12px 4px 0 0;
+  }
+input[type="checkbox"]{
+    margin: 12px 4px 0 0;
+  }
+
+.font{font-family: 'Times New Roman', Times, serif;
+font-weight: lighter;
+margin-bottom: 10px;
+margin-top: 10px;}
+
+
+input[type='radio']:checked:after {
+    width: 8px;
+    height: 8px;
+    border-radius: 8px;
+    top: 0px;
+    left: 0px;
+    position: relative;
+    background-color:rgb(14, 13, 13);
+    content: '';
+    display: inline-block;
+    visibility: visible;
+    border: 2px solid white;
+}
+
+
