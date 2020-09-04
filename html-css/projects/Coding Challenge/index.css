@@ -1,0 +1,14 @@
+body {
+    border: 3px solid blue;
+    height: auto;
+}
+
+
+
+#taksimSquare {
+    width: 250px;
+    float: left;
+    padding:10px 20px 10px 20px;
+}
+
+
