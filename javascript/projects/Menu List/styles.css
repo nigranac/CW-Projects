@@ -146,7 +146,7 @@ p {
   letter-spacing: var(--spacing);
   display: inline-block;
   transition: var(--transition);
-  font-size: 0.875rem;
+  font-size: 0.878rem;
   border: 2px solid var(--clr-black);
   cursor: pointer;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
